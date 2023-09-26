@@ -24,6 +24,7 @@ BoneCount: How many bones are there.
 BoneLength: the length of each bone. No need to be set manually.
 
 Target: the target object.
+
 Rotate with Target: will the end bone have same rotation with the target object?
 
 Pole: the pole that the bone nodes will bend to.
